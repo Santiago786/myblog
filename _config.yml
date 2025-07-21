@@ -1,0 +1,11 @@
+# Site settings
+
+title: Direct speaking
+author: 
+  name: Na'eem Santiago
+  email: naeem.santiago@rutgets.edu
+description: Direct information about site building with Jekyll on Github pages
+
+# Built settings
+
+remote_theme: jekyll/minima
